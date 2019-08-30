@@ -1,0 +1,396 @@
+.container-nav{
+    width:97%;
+    margin: 0 auto
+}
+.container-man{
+    width: 950px;
+    margin: 0 auto
+}
+.conteiner-pargraphe{
+    width: 600px;
+    margin: 0 auto;
+}
+.container-cosmos{
+    width: 89%;
+    margin: 0 auto;
+}
+.container-detials{
+    width: 89%;
+    margin: 0 auto;
+    border-top: double rgb(228, 228, 228);
+    border-bottom:1px solid rgb(228, 228, 228);
+
+}
+.container-footer{
+    width: 75%;
+    margin: 0 auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between
+}
+.nav-header{
+    width:100%;
+    height: 41px;
+    border-bottom: 1px solid rgb(199, 199, 199);
+}
+.nav-header .settings{
+    width:226px;
+    height: 34px;
+    margin-top:2px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-header .settings .setting{
+    width:32px;
+    height: 34px;
+    text-align: center
+}
+.nav-header .settings .search{
+    width:32px;
+    height: 34px;
+    text-align: center
+}
+.nav-header .setting img,.search img{
+    width:16px;
+    height: 18px;
+    margin-top:8px
+}
+.nav-header .container-nav .settings .space-cosmos{
+    text-align: center;
+    margin-top:9px
+}
+.nav-header .container-nav .settings a{
+    font-size: 14px;
+    text-decoration: none;
+    color:black; 
+    font-style: none;
+    margin:5px 0 0 0;
+}
+.nav-header .settings .space-cosmos{
+    width: 132px;
+    height: 16px;
+}
+.nav-header .container-nav .logo{
+    width:195px;
+    height: 25px;
+    margin-top:5px
+}
+.nav-header .container-nav .signup{
+    width:195px;
+    height: 34px;
+    margin-top:1px
+}
+.nav-header .container-nav .signup .subscribe{
+    width: 120px;
+    height: 32px;
+    background: #6288a5;
+    font: 11px arial;
+    margin-top:3px;
+    color: white;
+    border:1px solid rgb(103, 80, 231);
+    border-radius: 4px
+}
+.nav-header .container-nav .signup .login{
+    width: 63px;
+    height: 32px;
+    background: #6288a5;
+    border:1px solid rgb(103, 80, 231);
+    border-radius: 4px;
+    font: 11px arial;
+    color: white;
+    margin-top:3px;
+}
+main .first-text{
+    font-size: 36px;
+    font-style:  italic;
+    width:377px;
+    line-height: 40px;
+    float: left;
+    font-weight: bold;
+    margin: 60px 0 0 300px
+}
+main img{
+    width:945px;
+    height: 530px;
+    margin-top:20px
+
+}
+main .container-man .text-image{
+    font-size: 16px;
+    line-height: 1.3em;
+    color: #666;
+    max-width: 700px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+main .container-man .rick{
+    color: #888;
+    margin-top: 0;
+    font-size: 14px;
+}
+main .conteiner-pargraphe .history-sochial .social p{
+    margin:0
+}
+main .conteiner-pargraphe .history-sochial .social{
+    margin-bottom: 20px
+}
+main .conteiner-pargraphe ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    display: flex;
+}
+main .conteiner-pargraphe ul li:hover{
+    border: 1px solid #eee;
+    background: repeat-x;
+}
+main .conteiner-pargraphe ul .facebook{
+    background: #eee;
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 27px;
+}
+main .conteiner-pargraphe ul .comment{
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 27px;
+}
+main .conteiner-pargraphe ul i{
+    color: black
+}
+main .conteiner-pargraphe .text-top{
+    color: #333;
+    font-size: 20px;
+    line-height: 29px;
+    font-weight: normal;
+    margin: 0 0 20px 0;
+
+}
+.silver a{
+    color: #0068b8;
+    text-decoration: none;
+}
+.silver a:hover{
+    text-decoration: underline;
+}
+.long-article{
+    width: 100%;
+    height: 825px;
+    border: none
+}
+.ytp-cued-thumbnail-overlay-image {
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.first-text-after{
+    color: #888888;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+}
+.socend-text-after{
+    color: #666666;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0 0 20px 0;
+}
+.read-comment{
+    width:100%;
+    height: 32px;
+}
+.button-read{
+    width: 330px;
+    height: 32px;
+    background: #6288a5;
+    font: 11px arial;
+    color: white;
+    border:1px solid rgb(103, 80, 231);
+    border-radius: 4px
+}
+.core-cpace-cosmos{
+    width:852px;
+    border-top:1px solid black;
+    margin-top:30px
+}
+.most-popular{
+    width:318px;
+    height: 500px;
+    border-top:1px solid black;
+    margin-top:30px
+}
+.text-cosmos a {
+    text-decoration: none;
+    color: #000;
+    font-size: 17px;
+}
+.text-cosmos a:hover {
+    text-decoration: underline;
+}
+.core-cpace-cosmos ul{
+    list-style-type: none;
+    padding:0 0 20px 0;
+    display: flex;
+    margin: 0;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.li-cosmos{
+    list-style-type: none;
+    margin: 0;
+    width: 32%;
+}
+.li-cosmos img{
+    width: 272px;
+    height: 181px;
+    margin: 0
+}
+.nasa{
+    color: #666666;
+    font-size: 11px;
+    font-weight: normal;
+    float: right;
+    margin: 0
+
+}
+.li-cosmos .link-image{
+    width: 272px;
+    margin:0 0 0 0;
+    clear: both;
+}
+.li-cosmos .link-image a{
+    color: #121212;
+    font-size: 19px;
+    line-height: 1.3em;
+    font-weight: 500;
+    text-decoration: none;
+}
+.li-cosmos .link-image a:hover{
+    color: #666;
+}
+.history{
+    margin-top:0
+}
+.border{
+    border-top:1px solid black;
+    width: 100%
+}
+.most-popular ul{
+    list-style-type: none;
+    padding:0 0 20px 0;
+    margin: 0;
+}
+.most-list{
+    width: 100%;
+    border-top:1px solid rgb(190, 190, 190);
+    padding:18px 0 18px 0
+}
+.most-list a{
+    color: #121212;
+    font-size: 19px;
+    line-height: 1.3em;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 20px
+}
+.most-list a:hover{
+    color: #666;
+}
+.page{
+    margin-top:5px;
+    height: 50px;
+    margin-bottom: 20px
+}
+.page svg{
+    width:195px;
+    height: 25px;
+    margin-top:13px
+}
+.page a{
+    text-decoration: none;
+    color:black;
+    font:bold;
+}
+.last-details{
+    width:100%;
+    padding: 0 0 15px 0;
+}
+.last-details ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none
+}
+.sub{
+    width: 250px;
+    height: 323px;
+    border-left:1px solid rgb(228, 228, 228);
+    padding:0 0 0 15px;
+
+}
+.sub ul .small{
+    padding: 3.5px;
+    list-style-type: none;
+}
+.sub ul .small a{
+    text-decoration: none;
+    color:black;
+    font-size: 11px
+}
+.sub ul .small a:hover{
+    text-decoration: underline;
+}
+.last-details ul h4{
+    margin:0 0 10px 0;
+}
+.last-details ul .all-li{
+    padding: 3.5px;
+    list-style-type: none
+}
+.last-details ul .all-li a{
+    text-decoration: none;
+    color:black;
+    font-size: 14px
+}
+.last-details ul .all-li a:hover{
+    text-decoration: underline;
+}
+.sub svg{
+    width:13px;
+    height: 13px;
+    margin-right: 10px;
+}
+.sub ul .row a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+}
+.sub ul .row a:hover{
+    text-decoration: underline;
+}
+.row{
+    display: flex;
+}
+footer .container-footer ul{
+    list-style-type: none;
+    padding: 8px 0 5px 0;
+    margin:0
+}
+footer .container-footer ul li a{
+    font-size: 12px;
+    color:rgb(141, 141, 141);
+    text-decoration: none
+}
+footer .container-footer ul li a:hover{
+    text-decoration: underline
+}
